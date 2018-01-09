@@ -1,0 +1,43 @@
+{  
+    "name":"melipayamak/laravel",
+    "description":"Laravel Melipayamak Integration",
+    "type":"laravel-package",
+    "homepage": "http://github.com/Melipayamak/melipayamak-laravel",
+    "keywords":[  
+       "laravel",
+       "melipayamak",
+       "sms",
+       "api"
+    ],
+    "license":"MIT",
+    "version": "0.1.0",
+	"authors": [
+        {
+            "name" : "melipayamak",
+            "email": "melipayamak.ir@gmail.com"
+        },
+        {
+            "name": "Ara Code It",
+            "email": "ahnara92@gmail.com"
+        }
+    ],
+    "require":{  
+        "melipayamak/php": "*"
+    },
+    "autoload":{  
+       "psr-4":{  
+        "Melipayamak\\Laravel\\":"src/"
+       }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Melipayamak\\Laravel\\ServiceProvider"
+            ],
+            "aliases": {
+                "Melipayamak": "Melipayamak\\Laravel\\Facade"
+            }
+        }
+    },
+    "minimum-stability" : "stable"
+ }
