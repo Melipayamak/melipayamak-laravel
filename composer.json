@@ -10,7 +10,7 @@
        "api"
     ],
     "license":"MIT",
-    "version": "0.2.0",
+    "version": "1.0.0",
 	"authors": [
         {
             "name" : "melipayamak",
@@ -22,7 +22,7 @@
         }
     ],
     "require":{  
-        "melipayamak/php": "0.2.0"
+        "melipayamak/php": "1.0.0"
     },
     "autoload":{  
        "psr-4":{  
