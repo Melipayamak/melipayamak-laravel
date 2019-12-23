@@ -22,7 +22,7 @@
 
 
 ```php
-composer require melipayamak/laravel 
+composer require melipayamak/laravel:1.0.0
 ```
 
 
@@ -37,7 +37,7 @@ composer.json
 
 
 ```json
-"melipayamak/laravel": "*"
+"melipayamak/laravel": "1.0.0"
 ```
 
 
