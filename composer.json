@@ -22,7 +22,7 @@
         }
     ],
     "require":{  
-        "melipayamak/php": "1.0.0"
+        "melipayamak/php": "2.0.5"
     },
     "autoload":{  
        "psr-4":{  
