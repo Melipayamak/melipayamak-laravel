@@ -1,6 +1,12 @@
 # Melipayamak Laravel
 
 
+[![PHP Version](https://img.shields.io/packagist/php-v/melipayamak/php.svg)](https://packagist.org/packages/melipayamak/php)
+[![License](https://img.shields.io/packagist/l/melipayamak/php.svg)](https://github.com/Melipayamak/melipayamak-php/blob/master/LICENSE)
+[![Latest Version](https://img.shields.io/packagist/v/melipayamak/php.svg)](https://packagist.org/packages/melipayamak/php)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+[![Total Downloads](https://img.shields.io/packagist/dt/melipayamak/php.svg)](https://packagist.org/packages/melipayamak/php)
+
 <div dir='rtl'>
 
 ### معرفی وب سرویس ملی پیامک
